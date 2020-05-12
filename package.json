@@ -7,5 +7,25 @@
   "contributors": [
     "Halvard Mörstad <contact@moerstad.no> (https://github.com/halvardssm)"
   ],
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@types/react": "^16.9.35",
+    "@types/react-dom": "^16.9.8",
+    "@types/react-router-dom": "^5.1.5",
+    "@typescript-eslint/eslint-plugin": "~2.31.0",
+    "@typescript-eslint/parser": "~2.31.0",
+    "eslint": "^7.0.0",
+    "parcel": "^2.0.0-alpha.3.2",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "i18next": "^19.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-i18next": "^11.4.0",
+    "react-router-dom": "^5.2.0"
+  },
+  "scripts": {
+    "start": "parcel public/index.html"
+  }
 }
