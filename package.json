@@ -1,0 +1,11 @@
+{
+  "name": "chroma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:CodeChroma/Chroma.git",
+  "author": "Sophie Atkins <tileyratkins@gmail.com> (https://github.com/Druue)",
+  "contributors": [
+    "Halvard Mörstad <contact@moerstad.no> (https://github.com/halvardssm)"
+  ],
+  "license": "GPL-3.0"
+}
